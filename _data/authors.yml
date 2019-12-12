@@ -1,0 +1,21 @@
+- name: Rishabh Agarwal
+  image: assets/faces/rishabh.jpg
+  title: Google & Research Associate
+  url: https://agarwl.github.io/
+- name: Nick Frosst
+  image: assets/faces/nick.jpeg
+  title: Secant.AI, Researcher
+  url: https://www.nickfrosst.com/
+- name: Xuezhou Zhang
+  image: assets/faces/xuezhou.jpeg
+  url: http://pages.cs.wisc.edu/~zhangxz1123/
+  title: UW Madison & Graduate Student
+- name: Rich Caruana
+  image: assets/faces/rich.jpg
+  url: https://www.microsoft.com/en-us/research/people/rcaruana/
+  title: Microsoft & Senior Principal Researcher
+- name: Geoff Hinton
+  image: assets/faces/geoff.jpg
+  url: https://www.cs.toronto.edu/~hinton/
+  title: Google & VP, Engineering Fellow
+
