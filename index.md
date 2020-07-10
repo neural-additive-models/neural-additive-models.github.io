@@ -11,12 +11,12 @@ Citing
 ------
 If you find this open source release useful, please reference in your paper:
 
-  @article{agarwal2020neural,
-    title={Neural additive models: Interpretable machine learning with neural nets},
-    author={Agarwal, Rishabh and Frosst, Nicholas and Zhang, Xuezhou and Caruana, Rich and Hinton, Geoffrey E},
-    journal={arXiv preprint arXiv:2004.13912},
-    year={2020}
-}
+    @article{agarwal2020neural,
+      title={Neural additive models: Interpretable machine learning with neural nets},
+      author={Agarwal, Rishabh and Frosst, Nicholas and Zhang, Xuezhou and Caruana, Rich and Hinton, Geoffrey E},
+      journal={arXiv preprint arXiv:2004.13912},
+      year={2020}
+    }
 
 ## Authors
 
