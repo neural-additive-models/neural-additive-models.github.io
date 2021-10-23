@@ -1,10 +1,11 @@
 intro:
 title: 'Neural Additive Models: Interpretable Machine Learning with Neural Nets'
 description:
-- ICML 2020 Workshop on Human Interpretability in Machine Learning (Spotlight)
+- Spotlight (Top 3%) at Neural Information Processing Systems (NeurIPS), 2021.
+- Spotlight at ICML 2020 Workshop on Human Interpretability in Machine Learning.
 buttons:
   Paper: 'https://arxiv.org/pdf/2004.13912.pdf'
   Code: 'https://github.com/google-research/google-research/tree/master/neural_additive_models'
   TweetPrint: https://twitter.com/nickfrosst/status/1255889440083447810?s=20
-  Spotlight: https://youtu.be/vqKJbJ5c1NI
+  Spotlight (ICML): https://youtu.be/vqKJbJ5c1NI
   Authors: '#authors'
