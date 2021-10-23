@@ -1,21 +1,29 @@
 - name: Rishabh Agarwal
-  image: assets/faces/rishabh.jpg
-  title: Google & Research Associate
+  image: https://agarwl.github.io/images/rishabh_profile.jpg
+  title: Google Research, Brain Team
   url: https://agarwl.github.io/
+- name: Levi Melnick
+  image: assets/faces/levi.jpeg
+  title: Microsoft Research
+  url: https://www.linkedin.com/in/levi-melnick-79988118
 - name: Nick Frosst
   image: assets/faces/nick.jpeg
-  title: Secant.AI, Researcher
+  title: Cohere
   url: https://www.nickfrosst.com/
 - name: Xuezhou Zhang
   image: assets/faces/xuezhou.jpeg
   url: http://pages.cs.wisc.edu/~zhangxz1123/
-  title: UW Madison & Graduate Student
+  title: UW Madison
 - name: Rich Caruana
   image: assets/faces/rich.jpg
   url: https://www.microsoft.com/en-us/research/people/rcaruana/
-  title: Microsoft & Senior Principal Researcher
+  title: Microsoft Research
+- name: Ben Lengerich
+  image: assets/faces/be.jpeg
+  url: http://web.mit.edu/~blengeri/www/index.shtml
+  title: MIT
 - name: Geoff Hinton
   image: assets/faces/geoff.jpg
   url: https://www.cs.toronto.edu/~hinton/
-  title: Google & VP, Engineering Fellow
-
+  title: Google Research, Brain Team
+  
