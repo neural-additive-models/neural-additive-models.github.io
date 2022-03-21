@@ -5,6 +5,7 @@ description:
 - Spotlight at ICML 2020 Workshop on Human Interpretability in Machine Learning.
 buttons:
   Paper: 'https://arxiv.org/pdf/2004.13912.pdf'
+  Colab: 'https://colab.sandbox.google.com/drive/1E3_t7Inhol-qVPmFNq1Otj9sWt1vU_DQ?usp=sharing'
   Code: 'https://github.com/google-research/google-research/tree/master/neural_additive_models'
   TweetPrint: https://twitter.com/nickfrosst/status/1255889440083447810?s=20
   Short summary: https://youtu.be/vqKJbJ5c1NI
